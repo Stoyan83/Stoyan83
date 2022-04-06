@@ -1,13 +1,16 @@
 # Hello there 👋 
-### I have а degree in Pharmacy. 
-### Have been working for many years as а pharmacy manager.
-### However, I’ve come to realise that i prefer coding over selling drugs with prescription! So here I am.
+### ⚡ I have а degree in Pharmacy. 
+### ⚡ I Have been working for many years as а pharmacy manager.
+### ⚡ However, I’ve come to realize that i prefer coding over selling drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.
 ### 🔭 I’m currently working on my own projects.
-<a style="font-size:30px" href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'>📫 LinkedIn Profile</a>
+<a  href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'> 📫 My Linkedin Profile:
+  <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50">
+
+  </a>
 <br><br><br>
 <a href="https://softuni.bg/trainings/courses/">
-<img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150">
+<img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150" align="center">
 </a>
  
 

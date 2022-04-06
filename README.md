@@ -4,7 +4,7 @@
 ### Recently I found out that like more to code than drugs! So here I am.
 ### 🌱 I am currently studying at SoftUni.
 ### 🔭 I’m currently working on my own projects.
-<br><br><br><br><br><br>
+<br><br><br>
 <a href="https://softuni.bg/trainings/courses/">
 <img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150">
 </a>

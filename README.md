@@ -1,7 +1,7 @@
 # Hello there 👋 
 ### I have degree in pharmcy. 
 ### Have been working for many years as pharmacy manager.
-### Recently I found out that I like more to code than selling drugs with prescription! So here I am.
+### Recently I found out that I like more to code than to sell drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.
 ### 🔭 I’m currently working on my own projects.
 <br><br><br>

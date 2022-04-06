@@ -4,11 +4,13 @@
 ### However, I’ve come to realise that i prefer coding over selling drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.
 ### 🔭 I’m currently working on my own projects.
+<a style="font-size:30px" href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'>📫 LinkedIn Profile</a>
 <br><br><br>
 <a href="https://softuni.bg/trainings/courses/">
 <img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150">
 </a>
  
+
  <table>
   <tr>
     <td colspan="2">Python</td>

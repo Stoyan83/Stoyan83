@@ -1,5 +1,5 @@
 # Hello there 👋 
-### I have а degree in pharmacy. 
+### I have а degree in Pharmacy. 
 ### Have been working for many years as а pharmacy manager.
 ### However, I’ve come to realise that i prefer coding over selling drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.

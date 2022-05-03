@@ -5,7 +5,9 @@
 ### 🌱 I am currently studying at SoftUni.
 ### 🔭 I’m currently working on my own projects.
 <a  href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'> 📫 My Linkedin Profile:
-  <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50">
+  <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50"> <img width = "150" height="50" src="https://komarev.com/ghpvc/?username=Stoyan83">
+
+  
 
   </a>
 <br><br><br>

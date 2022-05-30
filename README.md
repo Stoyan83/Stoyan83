@@ -34,7 +34,7 @@
     <td><a href ='https://softuni.bg/trainings/3516/programming-basics-with-python-november-2021'>Programming Basics with Python</a> </td>
     <td><a href ='https://softuni.bg/certificates/details/121421/0b9b06b1'>Certificate</a>  </td>
     <td><a href ='https://softuni.bg/trainings/3742/programming-basics-with-javascript-april-2022'>Programming Basics with JavaScript</a></td>
-    <td>In progress ...</td>
+    <td><a href ='https://softuni.bg/certificates/details/134073/74b0ddcf'>Certificate</a>  </td>
     <td><a href ='https://softuni.bg/trainings/3714/ms-sql-may-2022'>MSSQL</td>
     <td>In progress ...</td>
     

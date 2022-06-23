@@ -37,6 +37,7 @@
     <td><a href ='https://softuni.bg/certificates/details/134073/74b0ddcf'>Certificate</a>  </td>
     <td><a href ='https://softuni.bg/trainings/3714/ms-sql-may-2022'>MSSQL</td>
     <td><a href ='https://softuni.bg/certificates/details/134802/61a9035e'>Certificate</td>
+      
     
   </tr>
   <tr>
@@ -49,6 +50,15 @@
   </tr>
    <tr>
     <td><a href ='https://softuni.bg/modules/74/python-advanced/1345'>Python Advanced</a> </td>
+    <td>In progres ... </td>
+    <td>&nbsp</td>
+    <td>&nbsp</td>
+    <td>&nbsp</td>
+    <td>&nbsp</td>
+    
+  </tr>
+   <tr>
+    <td><a href ='https://softuni.bg/trainings/3705/python-oop-june-2022'>Python OOP</a> </td>
     <td>In progres ... </td>
     <td>&nbsp</td>
     <td>&nbsp</td>

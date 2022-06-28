@@ -50,7 +50,7 @@
   </tr>
    <tr>
     <td><a href ='https://softuni.bg/modules/74/python-advanced/1345'>Python Advanced</a> </td>
-    <td>In progres ... </td>
+    <td><a href ='https://softuni.bg/certificates/details/135948/b644f779'>Certificate</td>
     <td>&nbsp</td>
     <td>&nbsp</td>
     <td>&nbsp</td>

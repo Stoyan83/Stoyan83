@@ -10,7 +10,7 @@
 ### <h2 style="font-family:tempus sans itc;"> :eyes: It looks like I am a bit busy, but feel free to contact me!
 
 <div>
-<h2 style="font-family:tempus sans itc;"><a href="mailto:stoyan_stoyanov@rocketmail.com?"><img  src="https://www.freepnglogos.com/uploads/email-png/download-blue-email-png-png-image-pngimg-10.png" alt="linkedin" width="150" height="50"></a><a  href = 'https://bg.linkedin.com/in/stoyan-stoyanov-51637a217'>
+<h2 style="font-family:tempus sans itc;"><a href="mailto:stoyan_stoyanov@rocketmail.com?"><img  src="https://www.freepnglogos.com/uploads/email-png/download-blue-email-png-png-image-pngimg-10.png" alt="linkedin" width="150" height="50"></a><a  href = 'https://www.linkedin.com/in/stoyan-stoyanov-51637a217'>
   <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50"> <img width = "150" height="50" src="https://komarev.com/ghpvc/?username=Stoyan83"></a>
  </div>
 

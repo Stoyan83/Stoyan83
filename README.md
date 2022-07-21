@@ -3,9 +3,8 @@
 ### :calendar: I Have been working for many years as а pharmacy manager.
 ### :pill: However, I’ve come to realize that i prefer coding over selling drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.
-### :clipboard: <a  href = 'https://career.softserveinc.com/en-us/it-academy'> At the same time I am learning Ruby and Ruby on Rails in SoftServ It Academy (Click here for more details)
-### 🔭 I’m currently working on my own projects.
-  
+### :clipboard: <a  href = 'https://career.softserveinc.com/en-us/it-academy'> At the same time I am learning Ruby on Rails in SoftServ It Academy (Click here for more details)
+### 🔭 I’m currently working on my own projects.  
 ###  <a href="mailto:stoyan_stoyanov@rocketmail.com?">:email: Looks like I am a bit busy, but feel free to contact me!</a>
   
 <a  href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'> 📫 My Linkedin Profile:

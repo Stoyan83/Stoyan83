@@ -4,16 +4,20 @@
 ### :pill: However, I’ve come to realize that i prefer coding over selling drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.
 ### :clipboard: <a  href = 'https://career.softserveinc.com/en-us/it-academy'> At the same time I am learning Ruby on Rails in SoftServ It Academy (Click here for more details)
-### 🔭 I’m currently working on my own projects.  
-###  <a href="mailto:stoyan_stoyanov@rocketmail.com?">📫 Looks like I am a bit busy, but feel free to contact me!</a>
+
+### <h2 style="font-family:tempus sans itc;">🔭 I’m currently working on my own projects.  
+</br>
+<div>
+<h2 style="font-family:tempus sans itc;"><a href="mailto:stoyan_stoyanov@rocketmail.com?"><img  src="https://freepngimg.com/thumb/gmail/64882-email-icon-hq-image-free-png.png" alt="linkedin" width="150" height="50"></a><a  href = 'https://bg.linkedin.com/in/stoyan-stoyanov-51637a217'>
+  <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50"> <img width = "150" height="50" src="https://komarev.com/ghpvc/?username=Stoyan83"></a>
+ </div>
+
   
-<a  href = 'https://bg.linkedin.com/in/stoyan-stoyanov-51637a217'>
-  <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50"> <img width = "150" height="50" src="https://komarev.com/ghpvc/?username=Stoyan83">
 
   
 
   </a>
-<br><br><br>
+</br></br></br>
 <a href="https://softuni.bg/trainings/courses/">
 <img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150" align="center">
 </a>
@@ -73,17 +77,4 @@
 </table>
 
 
-<!--
-**Stoyan83/Stoyan83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

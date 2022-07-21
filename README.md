@@ -7,7 +7,7 @@
 ### 🔭 I’m currently working on my own projects.  
 ###  <a href="mailto:stoyan_stoyanov@rocketmail.com?">:email: Looks like I am a bit busy, but feel free to contact me!</a>
   
-<a  href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'> 📫 My Linkedin Profile:
+<a  href = 'https://bg.linkedin.com/in/stoyan-stoyanov-51637a217'> 📫 My Linkedin Profile:
   <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50"> <img width = "150" height="50" src="https://komarev.com/ghpvc/?username=Stoyan83">
 
   

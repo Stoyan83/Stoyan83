@@ -5,7 +5,7 @@
 ### 🌱 I am currently studying at SoftUni.
 ### :clipboard: <a  href = 'https://career.softserveinc.com/en-us/it-academy'> At the same time I am learning Ruby and Ruby on Rails in SoftServ It Academy (Click here for more details)
 ### 🔭 I’m currently working on my own projects.
-### :eyes: Looks like I am a bit busy, but feel free to contact me! <p><a href="MAILTO:stoyan_stoyanov@rocketmail.com"></a></p>
+### :eyes: Looks like I am a bit busy, but feel free to contact me! <a href="mailto:stoyan_stoyanov@rocketmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a  href = 'https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'> 📫 My Linkedin Profile:
   <img  src="https://career.gatech.edu/sites/default/files/images/linkedin-banner_0.png" alt="linkedin" width="150" height="50"> <img width = "150" height="50" src="https://komarev.com/ghpvc/?username=Stoyan83">
 

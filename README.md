@@ -16,15 +16,15 @@
 
   
 
-  
-<div>  </a>
+
+</a>
 </br></br></br>
 <a href="https://softuni.bg/trainings/courses/">
 <img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150" align="center">
-</a>
 
 
 
+</div>
 
  <table>
   <tr>
@@ -80,4 +80,5 @@
 </table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stoyan83&theme=buefy)
+
 

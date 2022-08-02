@@ -1,7 +1,7 @@
 # Hello there 👋 
 ### :mortar_board: I have а degree in Pharmacy. 
 ### :calendar: I Have been working for many years as а pharmacy manager.
-### :pill: However, I’ve come to realize that i prefer coding over selling drugs with prescription! So here I am.
+### :pill: However, I’ve come to realize that I prefer coding over selling drugs with prescription! So here I am.
 ### 🌱 I am currently studying at SoftUni.
 ### :clipboard: <a  href = 'https://career.softserveinc.com/en-us/it-academy'> At the same time I am learning Ruby on Rails in SoftServ It Academy (Click here for more details)
 
@@ -53,27 +53,27 @@
   <tr>
     <td><a href ='https://softuni.bg/modules/106/fundamentals-module/1316'>Python Fundamentals</a></td>
     <td><a href ='https://softuni.bg/certificates/details/129140/8f7380c2'>Certificate</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
    <tr>
     <td><a href ='https://softuni.bg/modules/74/python-advanced/1345'>Python Advanced</a> </td>
     <td><a href ='https://softuni.bg/certificates/details/135948/b644f779'>Certificate</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     
   </tr>
    <tr>
     <td><a href ='https://softuni.bg/trainings/3705/python-oop-june-2022'>Python OOP</a> </td>
-    <td>In progres ... </td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
-    <td>&nbsp</td>
+    <td>In progres </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     
   </tr>
   

@@ -69,7 +69,7 @@
   </tr>
    <tr>
     <td><a href ='https://softuni.bg/trainings/3705/python-oop-june-2022'>Python OOP</a> </td>
-    <td>In progres </td>
+    <td><a href ='https://softuni.bg/certificates/details/140935/6e26946a'>Certificate</a>  </td>
     <td></td>
     <td></td>
     <td></td>

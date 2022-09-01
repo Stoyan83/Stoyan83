@@ -19,9 +19,11 @@
 
 </a>
 </br></br></br>
+
+<div>
 <a href="https://softuni.bg/trainings/courses/">
 <img src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="SoftUni logo" width="630" height="150" align="center">
-
+</div>
 
 
 </div>
@@ -32,24 +34,16 @@
     <td colspan="2">JavaScript</td>
     <td colspan="2">SQL</td>
   </tr>
-  <tr>
-    <td>Course</td>
-    <td>Certificates</td>
-    <td>Course</td>
-    <td>Certificates</td>
-    <td>Course</td>
-    <td>Certificates</td>
-  </tr>
+
   <tr>
     <td><a href ='https://softuni.bg/trainings/3516/programming-basics-with-python-november-2021'>Programming Basics with Python</a> </td>
     <td><a href ='https://softuni.bg/certificates/details/121421/0b9b06b1'>Certificate</a>  </td>
     <td><a href ='https://softuni.bg/trainings/3742/programming-basics-with-javascript-april-2022'>Programming Basics with JavaScript</a></td>
     <td><a href ='https://softuni.bg/certificates/details/134073/74b0ddcf'>Certificate</a>  </td>
     <td><a href ='https://softuni.bg/trainings/3714/ms-sql-may-2022'>MSSQL</td>
-    <td><a href ='https://softuni.bg/certificates/details/134802/61a9035e'>Certificate</td>
-      
-    
+    <td><a href ='https://softuni.bg/certificates/details/134802/61a9035e'>Certificate</td>          
   </tr>
+  
   <tr>
     <td><a href ='https://softuni.bg/modules/106/fundamentals-module/1316'>Python Fundamentals</a></td>
     <td><a href ='https://softuni.bg/certificates/details/129140/8f7380c2'>Certificate</td>
@@ -58,23 +52,23 @@
     <td></td>
     <td></td>
   </tr>
+  
    <tr>
     <td><a href ='https://softuni.bg/modules/74/python-advanced/1345'>Python Advanced</a> </td>
     <td><a href ='https://softuni.bg/certificates/details/135948/b644f779'>Certificate</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    
+    <td></td>    
   </tr>
+  
    <tr>
     <td><a href ='https://softuni.bg/trainings/3705/python-oop-june-2022'>Python OOP</a> </td>
     <td><a href ='https://softuni.bg/certificates/details/140935/6e26946a'>Certificate</a>  </td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    
+    <td></td>    
   </tr>
   
 </table>

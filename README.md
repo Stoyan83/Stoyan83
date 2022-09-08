@@ -47,8 +47,8 @@
   <tr>
     <td><a href ='https://softuni.bg/modules/106/fundamentals-module/1316'>Python Fundamentals</a></td>
     <td><a href ='https://softuni.bg/certificates/details/129140/8f7380c2'>Certificate</td>
-    <td></td>
-    <td></td>
+    <td><a href ='https://softuni.bg/trainings/3846/js-advanced-september-2022'>JS Advanced</a></td>
+    <td>In progress...</td>
     <td></td>
     <td></td>
   </tr>

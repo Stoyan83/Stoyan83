@@ -30,9 +30,9 @@
 
  <table>
   <tr>
-    <th colspan="2">Python</th>
-    <th colspan="2">JavaScript</th>
-    <th colspan="2">SQL</th>
+    <td colspan="2">Python</td>
+    <td colspan="2">JavaScript</td>
+    <td colspan="2">SQL</td>
   </tr>
 
   <tr>

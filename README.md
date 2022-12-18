@@ -57,14 +57,14 @@
     <td><a href ='https://softuni.bg/modules/74/python-advanced/1345'>Python Advanced</a> </td>
     <td><a href ='https://softuni.bg/certificates/details/135948/b644f779'>Certificate</td>
     <td><a href ='https://softuni.bg/trainings/3847/js-applications-october-2022'>JS Applications</a></td>
-    <td>In progress ...</td>
+    <td><a href ='https://softuni.bg/certificates/details/150010/1e3deb3b'>Certificate</a> </td>
     <td></td>
     <td></td>    
   </tr>
   
    <tr>
     <td><a href ='https://softuni.bg/trainings/3705/python-oop-june-2022'>Python OOP</a> </td>
-    <td><a href ='https://softuni.bg/certificates/details/140935/6e26946a'>Certificate</a>  </td>
+    <td><a href ='https://softuni.bg/certificates/details/140935/6e26946a'>Certificate</a> </td>
     <td></td>
     <td></td>
     <td></td>

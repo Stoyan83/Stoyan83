@@ -18,7 +18,6 @@
 </br></br></br>
 
 <div>
-<a href="https://softuni.bg/trainings/courses/">
 <img src="https://www.encryptionconsulting.com/wp-content/uploads/2020/08/digital-certificates.png" alt="logo" width="910" height="350" align="center">
 </div>
 

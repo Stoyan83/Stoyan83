@@ -17,13 +17,9 @@
 </a>
 </br></br></br>
 
-<div>
+
+</div>
 <img src="https://www.encryptionconsulting.com/wp-content/uploads/2020/08/digital-certificates.png" alt="logo" width="910" height="300" align="center">
-</div>
-
-
-</div>
-
  <table>
   <tr>
     <td colspan="2">Python</td>

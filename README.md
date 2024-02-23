@@ -18,7 +18,7 @@
 </br></br></br>
 
 <div>
-<img src="https://www.encryptionconsulting.com/wp-content/uploads/2020/08/digital-certificates.png" alt="logo" width="890" height="350" align="center">
+<img src="https://www.encryptionconsulting.com/wp-content/uploads/2020/08/digital-certificates.png" alt="logo" width="900" height="350" align="center">
 </div>
 
 

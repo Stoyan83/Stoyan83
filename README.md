@@ -2,7 +2,7 @@
 ### :mortar_board: I have а degree in Pharmacy. 
 ### :calendar: I Have been working for many years as а pharmacy manager.
 ### :pill: However, I’ve come to realize that I prefer coding over selling drugs with prescription! So here I am.
-### :calendar: At the moment I'm working as a Junior Ruby Developer.
+### :calendar: At the moment I'm working as a Intermediate Ruby Developer.
 
 ### <h2 style="font-family:tempus sans itc;"> :eyes: Feel free to contact me!
 

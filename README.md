@@ -18,8 +18,6 @@
 </br></br></br>
 
 
-</div>
-    <img src="https://www.encryptionconsulting.com/wp-content/uploads/2020/08/digital-certificates.png" alt="logo" width="910" height="300" align="center">
  <table>
   <tr>
     <td colspan="2">Python</td>
@@ -67,7 +65,6 @@
 
 <div>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stoyan83&theme=buefy)
   
 </div>
 
